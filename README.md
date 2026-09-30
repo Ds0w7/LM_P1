@@ -4,8 +4,6 @@
 
 Este es un documento Markdown creado para la práctica de hoy de Lenguaje de Marcas.
 
-Markdown es un lenguaje de marcado ligero que permite dar formato a textos de forma sencilla y rápida.
-
 ## Características principales
 
 - Fácil de aprender.
